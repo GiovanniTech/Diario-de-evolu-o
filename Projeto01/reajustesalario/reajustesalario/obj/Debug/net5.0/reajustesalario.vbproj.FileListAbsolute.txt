@@ -1,0 +1,16 @@
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\bin\Debug\net5.0\reajustesalario.exe
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\bin\Debug\net5.0\reajustesalario.deps.json
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\bin\Debug\net5.0\reajustesalario.runtimeconfig.json
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\bin\Debug\net5.0\reajustesalario.runtimeconfig.dev.json
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\bin\Debug\net5.0\reajustesalario.dll
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\bin\Debug\net5.0\ref\reajustesalario.dll
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\bin\Debug\net5.0\reajustesalario.pdb
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.vbproj.AssemblyReference.cache
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.AssemblyInfoInputs.cache
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.AssemblyInfo.vb
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.vbproj.CoreCompileInputs.cache
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.dll
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\obj\Debug\net5.0\ref\reajustesalario.dll
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.pdb
+D:\Tópicos Sistemas\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.genruntimeconfig.cache

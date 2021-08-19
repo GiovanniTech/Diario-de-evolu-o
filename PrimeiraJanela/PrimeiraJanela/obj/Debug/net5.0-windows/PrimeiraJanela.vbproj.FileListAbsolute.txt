@@ -1,0 +1,17 @@
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\bin\Debug\net5.0-windows\PrimeiraJanela.exe
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\bin\Debug\net5.0-windows\PrimeiraJanela.deps.json
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\bin\Debug\net5.0-windows\PrimeiraJanela.runtimeconfig.json
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\bin\Debug\net5.0-windows\PrimeiraJanela.runtimeconfig.dev.json
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\bin\Debug\net5.0-windows\PrimeiraJanela.dll
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\bin\Debug\net5.0-windows\ref\PrimeiraJanela.dll
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\bin\Debug\net5.0-windows\PrimeiraJanela.pdb
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\obj\Debug\net5.0-windows\PrimeiraJanela.Form1.resources
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\obj\Debug\net5.0-windows\PrimeiraJanela.vbproj.GenerateResource.cache
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\obj\Debug\net5.0-windows\PrimeiraJanela.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\obj\Debug\net5.0-windows\PrimeiraJanela.AssemblyInfoInputs.cache
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\obj\Debug\net5.0-windows\PrimeiraJanela.AssemblyInfo.vb
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\obj\Debug\net5.0-windows\PrimeiraJanela.vbproj.CoreCompileInputs.cache
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\obj\Debug\net5.0-windows\PrimeiraJanela.dll
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\obj\Debug\net5.0-windows\ref\PrimeiraJanela.dll
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\obj\Debug\net5.0-windows\PrimeiraJanela.pdb
+D:\Tópicos Sistemas\PrimeiraJanela\PrimeiraJanela\obj\Debug\net5.0-windows\PrimeiraJanela.genruntimeconfig.cache
