@@ -1,0 +1,36 @@
+D:\Tópicos Sistemas\Aula_03\Aula_03\bin\Debug\net5.0-windows\Aula_03.exe
+D:\Tópicos Sistemas\Aula_03\Aula_03\bin\Debug\net5.0-windows\Aula_03.deps.json
+D:\Tópicos Sistemas\Aula_03\Aula_03\bin\Debug\net5.0-windows\Aula_03.runtimeconfig.json
+D:\Tópicos Sistemas\Aula_03\Aula_03\bin\Debug\net5.0-windows\Aula_03.runtimeconfig.dev.json
+D:\Tópicos Sistemas\Aula_03\Aula_03\bin\Debug\net5.0-windows\Aula_03.dll
+D:\Tópicos Sistemas\Aula_03\Aula_03\bin\Debug\net5.0-windows\ref\Aula_03.dll
+D:\Tópicos Sistemas\Aula_03\Aula_03\bin\Debug\net5.0-windows\Aula_03.pdb
+D:\Tópicos Sistemas\Aula_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.vbproj.AssemblyReference.cache
+D:\Tópicos Sistemas\Aula_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.Form1.resources
+D:\Tópicos Sistemas\Aula_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.vbproj.GenerateResource.cache
+D:\Tópicos Sistemas\Aula_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tópicos Sistemas\Aula_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.AssemblyInfoInputs.cache
+D:\Tópicos Sistemas\Aula_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.AssemblyInfo.vb
+D:\Tópicos Sistemas\Aula_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.vbproj.CoreCompileInputs.cache
+D:\Tópicos Sistemas\Aula_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.dll
+D:\Tópicos Sistemas\Aula_03\Aula_03\obj\Debug\net5.0-windows\ref\Aula_03.dll
+D:\Tópicos Sistemas\Aula_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.pdb
+D:\Tópicos Sistemas\Aula_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.genruntimeconfig.cache
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\bin\Debug\net5.0-windows\Aula_03.exe
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\bin\Debug\net5.0-windows\Aula_03.deps.json
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\bin\Debug\net5.0-windows\Aula_03.runtimeconfig.json
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\bin\Debug\net5.0-windows\Aula_03.runtimeconfig.dev.json
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\bin\Debug\net5.0-windows\Aula_03.dll
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\bin\Debug\net5.0-windows\ref\Aula_03.dll
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\bin\Debug\net5.0-windows\Aula_03.pdb
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.vbproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.Form1.resources
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.vbproj.GenerateResource.cache
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.AssemblyInfo.vb
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.vbproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.dll
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\obj\Debug\net5.0-windows\ref\Aula_03.dll
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.pdb
+C:\Users\Giovanni\source\repos\GiovanniTech\Diario-de-evolu-o\Projeto_03\Aula_03\obj\Debug\net5.0-windows\Aula_03.genruntimeconfig.cache
